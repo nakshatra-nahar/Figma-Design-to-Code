@@ -207,7 +207,3 @@ It would be where you *build* them.
 * Figma Help Center – *What Can I Do Offline in Figma?*
 * Figma Official Site – *AI Code Generator, Built into Figma Make*
 * Zignuts Blog – *Master Figma 2024: Dev Mode, Collaboration, and New Features*
-
----
-
-Would you like me to generate a **README.md version** (formatted for GitHub, including a table of contents and emojis) or a **Notion-friendly version** (optimized for clean page sections and callouts)?
